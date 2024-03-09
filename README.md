@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
-<i class="fa-brands fa-linkedin"></i>
+<i class="fa-brands fa-linkedin"><img src="https://fontawesome.com/icons/linkedin?f=brands&s=solid&pc=%2374C0FC"></img></i>
