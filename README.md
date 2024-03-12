@@ -3,8 +3,8 @@
 <!--
 **EndrewStatera/EndrewStatera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-Hey there, nice to see you around! I'm Endrew, a computer science student at PUCRS. I love learning about technology and see things which a developed running without bugs lmao. 
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,7 +14,7 @@ Hey there, nice to see you around! I'm Endrew, a computer science student at PUC
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<h2>Hey there, nice to see you around! I'm Endrew, a computer science student at PUCRS. I love learning about technology and see things which a developed running without bugs lmao. </h2>
 <link
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"
