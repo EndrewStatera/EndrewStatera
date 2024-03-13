@@ -14,7 +14,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3>Hey there, nice to see you around! I'm Endrew, a computer science student at PUCRS. I love learning about technology and see things which a developed running without bugs lmao. </h3>
+<h3>Hey there, nice to see you around! I'm Endrew, a computer science student at PUCRS. I love learning about technology and see things which I developed running without bugs hahaha </h3>
 <link
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"
