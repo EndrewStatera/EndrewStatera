@@ -34,5 +34,5 @@
 >
 
 <button type="submit">
-  <span class="fa-solid fa-envelope"></span> Email Us!
+  <span class="fa-solid fa-envelope"></span> Email Me!
 </button>
